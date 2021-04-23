@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Storage Object</title>
+  </head>
+  <body>
+    <h1>Storage Object</h1>
+    <p>
+      The Storage object of the Web Storage API provides access to the session
+      storage or local storage for a particular domain. This allows you to read,
+      add, modify, and delete stored data items.
+    </p>
+    <p>Example:localStorage.setItem("mytime", Date.now());</p>
+    <table class="w3-table-all notranslate">
+      <tbody>
+        <tr>
+          <th style="width: 30%">Property/Method</th>
+          <th>Description</th>
+        </tr>
+        <tr>
+          <td><a href="met_storage_key.asp">key(<em>n</em>)</a></td>
+          <td>Returns the name of the <em>n</em>th key in the storage</td>
+        </tr>
+        <tr>
+          <td><a href="prop_storage_length.asp">length</a></td>
+          <td>Returns the number of data items stored in the Storage object</td>
+        </tr>
+        <tr>
+          <td>
+            <a href="met_storage_getitem.asp">getItem(<em>keyname</em>)</a>
+          </td>
+          <td>Returns the value of the specified key name</td>
+        </tr>
+        <tr>
+          <td>
+            <a href="met_storage_setitem.asp"
+              >setItem(<em>keyname</em>, <em>value</em>)</a
+            >
+          </td>
+          <td>
+            Adds that key to the storage, or update that key's value if it
+            already exists
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="met_storage_removeitem.asp"
+              >removeItem(<em>keyname</em>)</a
+            >
+          </td>
+          <td>Removes that key from the storage</td>
+        </tr>
+        <tr>
+          <td><a href="met_storage_clear.asp">clear()</a></td>
+          <td>Empty all key out of the storage</td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
