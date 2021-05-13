@@ -20,7 +20,7 @@ A few projects when I was self-taught:
 
 <img src="https://media.giphy.com/media/XFqEueAedJzq6lq0ru/giphy.gif" width="50"> Portfolio with SASS https://github.com/thao15059/portfolio_website_sass <b><a href="https://thao15059.github.io/portfolio_website_sass/">Demo</a></b><br>
 <img src="https://media.giphy.com/media/XFqEueAedJzq6lq0ru/giphy.gif" width="50"> Simple Notebook with Firebase, Redux https://github.com/thao15059/notebook-redux-hooks <br>
-<img src="https://media.giphy.com/media/XFqEueAedJzq6lq0ru/giphy.gif" width="50"> Another Protfolio with Next, Tailwind https://github.com/thao15059/portfolio <br>
+<img src="https://media.giphy.com/media/XFqEueAedJzq6lq0ru/giphy.gif" width="50"> Another Protfolio with Next, Tailwind https://github.com/thao15059/portfolio <br> <b><a href="https://portfolio-thao15059.vercel.app/">Demo</a></b><br>
 <img src="https://media.giphy.com/media/XFqEueAedJzq6lq0ru/giphy.gif" width="50"> Simple Ecommerce with React Redux Firebase and more! https://github.com/thao15059/crwn-clothing <b><a href="https://crwn-clothing-live-thao.herokuapp.com/">Demo</a><br>
 
 
