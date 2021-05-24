@@ -9,7 +9,7 @@
 ```javascript
 const thao = {
   pronouns: "he" | "his",
-  code: [Javascript, Typescript, HTML, CSS, SASS],
+  code: [Javascript, HTML, CSS, SASS],
   tools: [React, Redux, Styled - Components],
   challenge:
     "I am trying to learn React and Typescript every day to become Senior Front End Developer",
